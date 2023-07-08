@@ -40,7 +40,16 @@
 ### Apache
 
 - [Apache Log4j](https://logging.apache.org/log4j/2.x/)
+- [Apache Tomcat](https://tomcat.apache.org/)
+
+### Hibernate
+
+- [Hibernate](https://hibernate.org/)
 
 ### Infinispan
 
 - [Infinispan](https://infinispan.org/)
+
+### Tomcat
+
+- [Tomcat 8 Tutorials](http://www.avajava.com/tutorials/categories/tomcat)
