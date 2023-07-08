@@ -22,3 +22,5 @@
 
 - [Eclipse](https://www.eclipse.org/downloads/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+
+- [SoapUI](https://www.soapui.org/)
