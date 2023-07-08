@@ -54,7 +54,7 @@
 ### Maven
 
 - [MVN Repository](https://mvnrepository.com/)
-- [Libraries]
+- Libraries
     - [Apache CXF Spring Boot Starter JAX WS](https://mvnrepository.com/artifact/org.apache.cxf/cxf-spring-boot-starter-jaxws)
     - [JAXB API](https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api)
     - [JSTL API](https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/javax.servlet.jsp.jstl-api/1.2.1)
