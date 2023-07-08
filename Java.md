@@ -18,8 +18,29 @@
 - [JavaEE 5: JSP Standard Tag Library 1.1 Tag Reference](https://docs.oracle.com/javaee/5/jstl/1.1/docs/tlddocs/)
 - [JavaEE 5: JSP Custom Tags](https://docs.oracle.com/javaee/5/tutorial/doc/bnalj.html)
 
+## Spring
+
+- [Spring](https://spring.io/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Sping Initializr](https://start.spring.io/)
+- [Spring Tools](https://spring.io/tools)
+
+### Documentation
+
+- [Spring Framework Documentation](https://docs.spring.io/spring-framework/reference/)
+
 ## Tools
 
 - [Eclipse](https://www.eclipse.org/downloads/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [SoapUI](https://www.soapui.org/)
+
+## External
+
+### Apache
+
+- [Apache Log4j](https://logging.apache.org/log4j/2.x/)
+
+### Infinispan
+
+- [Infinispan](https://infinispan.org/)
