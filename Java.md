@@ -29,6 +29,10 @@
 
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/reference/)
 
+## Web Service
+
+- [IBM: Which Style of WSDL Should I Use?](https://developer.ibm.com/articles/ws-whichwsdl/)
+
 ## Tools
 
 - [Eclipse](https://www.eclipse.org/downloads/)
