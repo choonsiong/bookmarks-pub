@@ -54,5 +54,9 @@
 ### Maven
 
 - [MVN Repository](https://mvnrepository.com/)
-- [JAXB API](https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api)
-- [JSTL API](https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/javax.servlet.jsp.jstl-api/1.2.1)
+- [Libraries]
+    - [Apache CXF Spring Boot Starter JAX WS](https://mvnrepository.com/artifact/org.apache.cxf/cxf-spring-boot-starter-jaxws)
+    - [JAXB API](https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api)
+    - [JSTL API](https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/javax.servlet.jsp.jstl-api/1.2.1)
+    - [JSTL Implementation](https://mvnrepository.com/artifact/org.glassfish.web/javax.servlet.jsp.jstl/1.2.1)
+    - [Maven JAXB 2.x Plugin](https://mvnrepository.com/artifact/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin)
