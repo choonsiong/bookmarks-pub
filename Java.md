@@ -41,6 +41,7 @@
 
 - [Apache Log4j](https://logging.apache.org/log4j/2.x/)
 - [Apache Tomcat](https://tomcat.apache.org/)
+    - [Tomcat 8 Tutorials](http://www.avajava.com/tutorials/categories/tomcat)
 
 ### Hibernate
 
@@ -50,6 +51,8 @@
 
 - [Infinispan](https://infinispan.org/)
 
-### Tomcat
+### Maven
 
-- [Tomcat 8 Tutorials](http://www.avajava.com/tutorials/categories/tomcat)
+- [MVN Repository](https://mvnrepository.com/)
+- [JAXB API](https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api)
+- [JSTL API](https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/javax.servlet.jsp.jstl-api/1.2.1)
