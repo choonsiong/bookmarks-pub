@@ -33,6 +33,10 @@
 
 - [IBM: Which Style of WSDL Should I Use?](https://developer.ibm.com/articles/ws-whichwsdl/)
 
+## XML
+
+- [W3S: XML Schema Tutorial](https://www.w3schools.com/xml/schema_intro.asp)
+
 ## Tools
 
 - [Eclipse](https://www.eclipse.org/downloads/)
