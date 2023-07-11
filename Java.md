@@ -10,6 +10,15 @@
 - [JavaSE Documentation](https://docs.oracle.com/en/java/javase/index.html)
 - [JavaSE 8 Documentation](https://docs.oracle.com/javase/8/docs/)
 - [JavaSE 8 API Specification](https://docs.oracle.com/javase/8/docs/api/index.html)
+- [JavaEE 8 Technologies](https://www.oracle.com/java/technologies/java-ee-8.html)
+
+## Java Specification Requests
+
+- [JSR 52: A Standard Tag Library for JavaServer Pages](https://jcp.org/en/jsr/detail?id=52)
+- [JSR 245: JavaServer Pages 2.1](https://jcp.org/en/jsr/detail?id=245)
+- [JSR 341: Expression Language 3.0](https://jcp.org/en/jsr/detail?id=341)
+- [JSR 366: Java Platform, Enterprise Edition 8 (Java EE 8) Specification](https://www.jcp.org/en/jsr/detail?id=366)
+- [JSR 369: Java Servlet 4.0 Specification](https://jcp.org/en/jsr/detail?id=369)
 
 ## JSP
 
