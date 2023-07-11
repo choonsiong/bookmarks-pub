@@ -56,6 +56,7 @@
 
 ### Apache
 
+- [Apache CXF](https://cxf.apache.org/)
 - [Apache Log4j](https://logging.apache.org/log4j/2.x/)
 - [Apache Tomcat](https://tomcat.apache.org/)
     - [Tomcat 8 Tutorials](http://www.avajava.com/tutorials/categories/tomcat)
