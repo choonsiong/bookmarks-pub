@@ -20,8 +20,10 @@
 - [JSR 366: Java Platform, Enterprise Edition 8 (Java EE 8) Specification](https://www.jcp.org/en/jsr/detail?id=366)
 - [JSR 369: Java Servlet 4.0 Specification](https://jcp.org/en/jsr/detail?id=369)
 
-## JSP
+## JSP/Servlet
 
+- [Java Servlet Technology Overview](https://www.oracle.com/java/technologies/servlet-technology.html)
+- [JavaServer Pages Technology](https://www.oracle.com/java/technologies/jspt.html)
 - [A Standard Tag Library for JavaServer Pages Specification 1.2](https://download.oracle.com/otndocs/jcp/jstl-1.2-mrel2-oth-JSpec/)
 - [JavaEE 5: JSP Standard Tag Library](https://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html)
 - [JavaEE 5: JSP Standard Tag Library 1.1 Tag Reference](https://docs.oracle.com/javaee/5/jstl/1.1/docs/tlddocs/)
@@ -73,7 +75,7 @@
 
 - [MVN Repository](https://mvnrepository.com/)
 - Libraries
-    - [Apache CXF Spring Boot Starter JAX WS](https://mvnrepository.com/artifact/org.apache.cxf/cxf-spring-boot-starter-jaxws)
+    - [Apache CXF Spring Boot Starter JAX WS](https://mvnrepository.com/artifact/org.apache.cxf/cxf-spring-boot-starter-jaxws)    
     - [JAXB API](https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api)
     - [JSTL API](https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/javax.servlet.jsp.jstl-api/1.2.1)
     - [JSTL Implementation](https://mvnrepository.com/artifact/org.glassfish.web/javax.servlet.jsp.jstl/1.2.1)
