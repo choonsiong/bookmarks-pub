@@ -1,6 +1,7 @@
 # Java
 
 - [Jakarta EE](https://jakarta.ee)
+    - [Jakarta EE 9](https://jakarta.ee/release/9/)
 - [Microsoft Build of OpenJDK](https://learn.microsoft.com/en-us/java/openjdk/) 
 - [OpenJDK](https://openjdk.org/)
 - [Oracle Java](https://www.oracle.com/java/)
