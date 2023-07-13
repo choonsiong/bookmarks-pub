@@ -14,6 +14,7 @@
 - [JavaSE 8 Documentation](https://docs.oracle.com/javase/8/docs/)
 - [JavaSE 8 API Specification](https://docs.oracle.com/javase/8/docs/api/index.html)
 - [JavaEE 8 Specification APIs](https://javaee.github.io/javaee-spec/javadocs/)
+    - [Servlet Interface](https://javaee.github.io/javaee-spec/javadocs/javax/servlet/Servlet.html)
 - [JavaEE 8 Technologies](https://www.oracle.com/java/technologies/java-ee-8.html)
 
 ## Java Specification Requests
