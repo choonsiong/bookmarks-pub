@@ -13,6 +13,7 @@
 - [JavaSE Documentation](https://docs.oracle.com/en/java/javase/index.html)
 - [JavaSE 8 Documentation](https://docs.oracle.com/javase/8/docs/)
 - [JavaSE 8 API Specification](https://docs.oracle.com/javase/8/docs/api/index.html)
+- [JavaEE 8 Specification APIs](https://javaee.github.io/javaee-spec/javadocs/)
 - [JavaEE 8 Technologies](https://www.oracle.com/java/technologies/java-ee-8.html)
 
 ## Java Specification Requests
