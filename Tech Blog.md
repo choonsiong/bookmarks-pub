@@ -1,5 +1,8 @@
 # Blogs
 
+- 劉邦鋒
+    - [由片語學習 C 程式設計](https://sites.google.com/site/mycprogrammingbook/)
+    - [由片語學習 C 程式設計 (第二版)](https://sites.google.com/view/c-programming-2ed/)
 - [OpenHome - Justin Lin](https://openhome.cc/)
     - [Gossip](https://openhome.cc/Gossip/)
     - Books
