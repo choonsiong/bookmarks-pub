@@ -68,6 +68,9 @@
 - [Apache Log4j](https://logging.apache.org/log4j/2.x/)
 - [Apache Tomcat](https://tomcat.apache.org/)
     - [Tomcat 8 Tutorials](http://www.avajava.com/tutorials/categories/tomcat)
+    - [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/)
+        - [The Context Container](https://tomcat.apache.org/tomcat-9.0-doc/config/context.html)
+        - [Tomcat Web Application Deployment](https://tomcat.apache.org/tomcat-9.0-doc/deployer-howto.html)
 
 ### Hibernate
 
