@@ -85,6 +85,7 @@
 - [MVN Repository](https://mvnrepository.com/)
 - Libraries
     - [Apache CXF Spring Boot Starter JAX WS](https://mvnrepository.com/artifact/org.apache.cxf/cxf-spring-boot-starter-jaxws)    
+    - [Javax Annotation API](https://mvnrepository.com/artifact/javax.annotation/javax.annotation-api/1.3.2)
     - [JAXB API](https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api)
     - [JSTL API](https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/javax.servlet.jsp.jstl-api/1.2.1)
     - [JSTL Implementation](https://mvnrepository.com/artifact/org.glassfish.web/javax.servlet.jsp.jstl/1.2.1)
