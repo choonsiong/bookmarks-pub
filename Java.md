@@ -70,6 +70,7 @@
     - [Tomcat 8 Tutorials](http://www.avajava.com/tutorials/categories/tomcat)
     - [Tomcat 9 Documentation](https://tomcat.apache.org/tomcat-9.0-doc/)
         - [The Context Container](https://tomcat.apache.org/tomcat-9.0-doc/config/context.html)
+        - [The HTTP Connector](https://tomcat.apache.org/tomcat-9.0-doc/config/http.html)
         - [Tomcat Web Application Deployment](https://tomcat.apache.org/tomcat-9.0-doc/deployer-howto.html)
 
 ### Hibernate
