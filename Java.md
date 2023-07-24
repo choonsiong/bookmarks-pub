@@ -9,6 +9,11 @@
 - [Oracle Java](https://www.oracle.com/java/)
     - [Download Java](https://www.oracle.com/my/java/technologies/downloads/)
 
+## JDK
+
+- [Adoptium](https://adoptium.net)
+- [Amazon Corretto](https://aws.amazon.com/tw/corretto/)
+
 ## Java Documentation
 
 - [JavaSE Documentation](https://docs.oracle.com/en/java/javase/index.html)
