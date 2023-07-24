@@ -4,15 +4,15 @@
     - [Jakarta EE 9](https://jakarta.ee/release/9/)
     - [Jakarta EE 10](https://jakarta.ee/release/10/)
 - [JSP](https://jcp.org/en/home/index)
-- [Microsoft Build of OpenJDK](https://learn.microsoft.com/en-us/java/openjdk/) 
-- [OpenJDK](https://openjdk.org/)
-- [Oracle Java](https://www.oracle.com/java/)
-    - [Download Java](https://www.oracle.com/my/java/technologies/downloads/)
 
 ## JDK
 
 - [Adoptium](https://adoptium.net)
 - [Amazon Corretto](https://aws.amazon.com/tw/corretto/)
+- [Microsoft Build of OpenJDK](https://www.microsoft.com/openjdk)
+- [OpenJDK](https://openjdk.org/)
+- [Oracle Java](https://www.oracle.com/java/)
+    - [Download Java](https://www.oracle.com/my/java/technologies/downloads/)
 
 ## Java Documentation
 
