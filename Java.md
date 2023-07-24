@@ -26,6 +26,7 @@
 - [JSR 341: Expression Language 3.0](https://jcp.org/en/jsr/detail?id=341)
 - [JSR 366: Java Platform, Enterprise Edition 8 (Java EE 8) Specification](https://www.jcp.org/en/jsr/detail?id=366)
 - [JSR 369: Java Servlet 4.0 Specification](https://jcp.org/en/jsr/detail?id=369)
+- [JSR 392: Jave SE 17](https://www.jcp.org/en/jsr/detail?id=392)
 
 ## JSP/Servlet
 
