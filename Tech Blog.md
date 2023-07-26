@@ -1,4 +1,4 @@
-# Blogs
+# Blog etc.
 
 - 劉邦鋒
     - [由片語學習 C 程式設計](https://sites.google.com/site/mycprogrammingbook/)
@@ -16,3 +16,4 @@
         - [JavaSE 17 LTS 技術手冊](https://www.gotop.com.tw/books/bookdetails.aspx?types=a&bn=ACL066100)
         - [JavaScript 技術手冊](https://www.gotop.com.tw/books/bookdetails.aspx?types=a&bn=AEL022800)
         - [Servlet & JSP 技術手冊](https://www.gotop.com.tw/books/bookdetails.aspx?types=a&bn=AEL024500)
+- [TalkGo](https://talkgo.org/)
