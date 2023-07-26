@@ -1,3 +1,5 @@
+# JavaScript
+
 - [ECMA](https://www.ecma-international.org)
     - [ECMA-262](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
     - [Ecma TC39](https://github.com/tc39)
@@ -7,3 +9,7 @@
 - [Node.js](https://nodejs.org/en)
     - [node.green](https://node.green/)
         - [kangax/compat-table](https://kangax.github.io/compat-table/es6/)
+
+## Reads
+
+- [Perfection Kills](http://perfectionkills.com/)
