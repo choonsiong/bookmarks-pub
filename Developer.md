@@ -1,4 +1,3 @@
 # Developer
 
 - [CSDN](https://www.csdn.net/)
-- [Unicode](https://home.unicode.org)
