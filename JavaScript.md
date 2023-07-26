@@ -3,3 +3,4 @@
     - [Ecma TC39](https://github.com/tc39)
         - [TC39 Proposals](https://github.com/tc39/proposals/)
         - [TC39 Process](https://tc39.es/process-document/)
+        - [Finished Proposals](https://github.com/tc39/proposals/blob/main/finished-proposals.md)
