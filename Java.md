@@ -51,6 +51,13 @@
     - [Spring Boot Properties](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html)
 - [Sping Initializr](https://start.spring.io/)
 - [Spring Tools](https://spring.io/tools)
+- [Spring Data JPA Reference](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
+    - [Spring Data Repositories](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories)
+    - [JPA Repository](https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/JpaRepository.html)
+- [Spring Data REST](https://spring.io/projects/spring-data-rest)
+- [Spring Security](https://docs.spring.io/spring-security/reference/)
+    - [Spring Security Reference](https://docs.spring.io/spring-security/site/docs/4.2.3.RELEASE/reference/htmlsingle/)
+    - [CSRF](https://owasp.org/www-community/attacks/csrf)
 
 ### Documentation
 
