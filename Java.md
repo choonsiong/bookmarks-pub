@@ -125,4 +125,25 @@
 - Spring Framework 5.x supports Java 8 - 17
 - Spring Framework 6.0 requires Java 17+
 - Spring Boot 2 (Spring Framework 5)
-- Spring Boot 3 (Spring Framework 6.0) needs at least Java 17    
+- Spring Boot 3 (Spring Framework 6.0) needs at least Java 17
+
+## Regular Expression
+
+- `?` - 0 或 1 次
+- `*` - 0 次以上 （任意次數）
+- `+` - 1 次以上
+- `{n}` - 剛好 n 次
+- `{n,}` - n 次以上
+- `{n,m}` - n 到 m 次
+- `.` - 任意字元
+- `\d` - 數字
+- `\D` - 非數字
+- `\s` - 空白字元
+- `\S` - 非空白字元
+- `\w` - 英文字母或數字
+- `\W` - 非英文字母也非數字
+-  `()` - 群組
+
+## JPA Entity States
+
+![image](img/Entity_States.png)    
