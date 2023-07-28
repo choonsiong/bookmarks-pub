@@ -88,6 +88,12 @@
 ### Infinispan
 
 - [Infinispan](https://infinispan.org/)
+  - [Hibernate 5.2 User Guide](https://docs.jboss.org/hibernate/orm/5.2/userguide/html_single/Hibernate_User_Guide.html)
+  - [Hibernate Validator 6.2](https://hibernate.org/validator/releases/6.2/)
+    - [hibernate-validator](https://search.maven.org/artifact/org.hibernate.validator/hibernate-validator/6.2.5.Final/jar)
+    - [hibernate-validator-annotation-processor](https://search.maven.org/artifact/org.hibernate.validator/hibernate-validator-annotation-processor/6.2.5.Final/jar)
+    - [hibernate-validator-cdi](https://search.maven.org/artifact/org.hibernate.validator/hibernate-validator-cdi/6.2.5.Final/jar)
+    - [hibernate-validator-osgi](https://search.maven.org/artifact/org.hibernate.validator/hibernate-validator-osgi/6.2.5.Final/jar)    
 
 ### Maven
 
