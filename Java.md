@@ -109,5 +109,6 @@
     - [Maven JAXB 2.x Plugin](https://mvnrepository.com/artifact/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin)
 
 ### Thymeleaf
+
 - [Thymeleaf](https://www.thymeleaf.org)
     - [Tutorial: Thymeleaf + Spring](https://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html)
