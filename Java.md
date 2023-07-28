@@ -58,6 +58,9 @@
 - [Spring Security](https://docs.spring.io/spring-security/reference/)
     - [Spring Security Reference](https://docs.spring.io/spring-security/site/docs/4.2.3.RELEASE/reference/htmlsingle/)
     - [CSRF](https://owasp.org/www-community/attacks/csrf)
+- [Spring Web MVC](https://docs.spring.io/spring-framework/docs/5.0.2.RELEASE/spring-framework-reference/web.html#mvc)
+    - [JSP & JSTL](https://docs.spring.io/spring-framework/docs/5.0.2.RELEASE/spring-framework-reference/web.html#mvc-view-jsp)   
+- [Jakarta Bean Validation](https://beanvalidation.org/)     
 
 ### Documentation
 
