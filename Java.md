@@ -46,6 +46,7 @@
 
 - [Spring](https://spring.io/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
+    - [Spring Boot Properties](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html)
 - [Sping Initializr](https://start.spring.io/)
 - [Spring Tools](https://spring.io/tools)
 
