@@ -23,6 +23,8 @@
     - [Servlet Interface](https://javaee.github.io/javaee-spec/javadocs/javax/servlet/Servlet.html)
 - [JavaEE 8 Technologies](https://www.oracle.com/java/technologies/java-ee-8.html)
 - [JavaEE: XML Schemas for Java EE Deployment Descriptors](https://www.oracle.com/webfolder/technetwork/jsc/xml/ns/javaee/index.html)
+- [Java Tutorials](https://docs.oracle.com/javase/tutorial/)
+  - [Regular Expressions](https://docs.oracle.com/javase/tutorial/essential/regex/)
 
 ## Java Specification Requests
 
