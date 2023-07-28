@@ -99,8 +99,8 @@
 
 - [Apache Maven](https://maven.apache.org)
     - [Maven Guides](https://maven.apache.org/guides/)
-- [Maven Central Repository](https://central.sonatype.com/?smo=true)    
 - [MVN Repository](https://mvnrepository.com/)
+- [Maven Central Repository](https://central.sonatype.com/?smo=true)    
 - Libraries
     - [Apache CXF Code Generation](https://mvnrepository.com/artifact/org.apache.cxf/cxf-codegen-plugin)
         - [Maven cxf-codegen-plugin](https://cxf.apache.org/docs/maven-cxf-codegen-plugin-wsdl-to-java.html)
