@@ -65,6 +65,8 @@
 ## Tools
 
 - [Eclipse](https://www.eclipse.org/downloads/)
+    - [Eclipse AspectJ](https://www.eclipse.org/aspectj/)
+        - [AspectJ Weaver (MVN)](https://mvnrepository.com/artifact/org.aspectj/aspectjweaver)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [SoapUI](https://www.soapui.org/)
 
@@ -90,7 +92,7 @@
     - [hibernate-validator-annotation-processor](https://search.maven.org/artifact/org.hibernate.validator/hibernate-validator-annotation-processor/6.2.5.Final/jar)
     - [hibernate-validator-cdi](https://search.maven.org/artifact/org.hibernate.validator/hibernate-validator-cdi/6.2.5.Final/jar)
     - [hibernate-validator-osgi](https://search.maven.org/artifact/org.hibernate.validator/hibernate-validator-osgi/6.2.5.Final/jar)    
-    
+
 ### Infinispan
 
 - [Infinispan](https://infinispan.org/)
