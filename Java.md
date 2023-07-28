@@ -119,3 +119,10 @@
 
 - [Thymeleaf](https://www.thymeleaf.org)
     - [Tutorial: Thymeleaf + Spring](https://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html)
+
+# Notes
+
+- Spring Framework 5.x supports Java 8 - 17
+- Spring Framework 6.0 requires Java 17+
+- Spring Boot 2 (Spring Framework 5)
+- Spring Boot 3 (Spring Framework 6.0) needs at least Java 17    
