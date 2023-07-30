@@ -13,6 +13,10 @@
 - [QuikcJS](https://bellard.org/quickjs/)
 - [Rhino](https://github.com/mozilla/rhino)
 
+## Notes
+
+- 在 JavaScript 中， 數字都是 IEEE 754 標準 64 位元浮點數。
+
 ## Reads
 
 - [Perfection Kills](http://perfectionkills.com/)
