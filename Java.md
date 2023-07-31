@@ -120,6 +120,7 @@
     - [Apache CXF Code Generation](https://mvnrepository.com/artifact/org.apache.cxf/cxf-codegen-plugin)
         - [Maven cxf-codegen-plugin](https://cxf.apache.org/docs/maven-cxf-codegen-plugin-wsdl-to-java.html)
     - [Apache CXF Runtime WS Security](https://mvnrepository.com/artifact/org.apache.cxf/cxf-rt-ws-security)
+    - [Apache CXF Spring Boot Starter JAX RS](https://mvnrepository.com/artifact/org.apache.cxf/cxf-spring-boot-starter-jaxrs)
     - [Apache CXF Spring Boot Starter JAX WS](https://mvnrepository.com/artifact/org.apache.cxf/cxf-spring-boot-starter-jaxws)    
     - [Javax Annotation API](https://mvnrepository.com/artifact/javax.annotation/javax.annotation-api/1.3.2)
     - [JAXB API](https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api)
