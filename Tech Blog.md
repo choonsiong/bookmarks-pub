@@ -7,6 +7,13 @@
     - [批改娘 judgegirl](https://github.com/ntuparallellab/judgegirl)
 - [Baeldung](https://www.baeldung.com/)
     - [Apache HTTP Client Guide](https://www.baeldung.com/httpclient-guide)
+- [DESTROY ALL SOFTWARE](https://www.destroyallsoftware.com/screencasts)
+- [Justin Lin](https://openhome.cc/zh-tw/)
+    - [Gossip](https://openhome.cc/Gossip/)
+        - [Encoding](https://openhome.cc/Gossip/Encoding/)
+        - [Encoding/哪來的純文字檔?](https://openhome.cc/Gossip/Encoding/TextFile.html)
+        - [Encoding/UTF-8](https://openhome.cc/Gossip/Encoding/UTF8.html)
+        - [Encoding/Unicode 與 UTF](https://openhome.cc/Gossip/Encoding/UnicodeUTF.html)
 - [OpenHome - Justin Lin](https://openhome.cc/)
     - [Gossip](https://openhome.cc/Gossip/)
     - Books
