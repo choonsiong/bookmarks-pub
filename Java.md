@@ -68,8 +68,8 @@
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/reference/)
 
 ## Web Service
-
 - [IBM: Which Style of WSDL Should I Use?](https://developer.ibm.com/articles/ws-whichwsdl/)
+- [Learn WSDL](https://www.tutorialspoint.com/wsdl/index.htm)
 
 ## XML
 
