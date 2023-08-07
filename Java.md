@@ -4,6 +4,7 @@
     - [Jakarta EE 9](https://jakarta.ee/release/9/)
     - [Jakarta EE 10](https://jakarta.ee/release/10/)
 - [JSP](https://jcp.org/en/home/index)
+- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
 ## JDK
 
