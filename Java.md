@@ -68,6 +68,13 @@
 
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/reference/)
 
+## Libraries
+
+- [CSV exporter](https://super-csv.github.io/super-csv/)
+- [Excel exporter](https://poi.apache.org)
+- [PDF exporter](https://github.com/LibrePDF/OpenPDF/tree/master)
+
+
 ## Web Service
 - [IBM: Which Style of WSDL Should I Use?](https://developer.ibm.com/articles/ws-whichwsdl/)
 - [Learn WSDL](https://www.tutorialspoint.com/wsdl/index.htm)
