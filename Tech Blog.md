@@ -11,6 +11,7 @@
 - [antirez](http://antirez.com/latest/0)
 - [Baeldung](https://www.baeldung.com/)
     - [Apache HTTP Client Guide](https://www.baeldung.com/httpclient-guide)
+- [CodeJava](https://codejava.net/)
 - [Dave Cheney](https://dave.cheney.net)
 - [DESTROY ALL SOFTWARE](https://www.destroyallsoftware.com/screencasts)
 - [Evan You](https://evanyou.me)
