@@ -18,6 +18,7 @@
 
 ## Java Documentation
 
+- [JavaEE 7 Specification APIs](https://docs.oracle.com/javaee/7/api/index.html)
 - [JavaSE Documentation](https://docs.oracle.com/en/java/javase/index.html)
 - [JavaSE 8 Documentation](https://docs.oracle.com/javase/8/docs/)
 - [JavaSE 8 API Specification](https://docs.oracle.com/javase/8/docs/api/index.html)
