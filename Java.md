@@ -113,7 +113,8 @@
     - [hibernate-validator](https://search.maven.org/artifact/org.hibernate.validator/hibernate-validator/6.2.5.Final/jar)
     - [hibernate-validator-annotation-processor](https://search.maven.org/artifact/org.hibernate.validator/hibernate-validator-annotation-processor/6.2.5.Final/jar)
     - [hibernate-validator-cdi](https://search.maven.org/artifact/org.hibernate.validator/hibernate-validator-cdi/6.2.5.Final/jar)
-    - [hibernate-validator-osgi](https://search.maven.org/artifact/org.hibernate.validator/hibernate-validator-osgi/6.2.5.Final/jar)    
+    - [hibernate-validator-osgi](https://search.maven.org/artifact/org.hibernate.validator/hibernate-validator-osgi/6.2.5.Final/jar)
+- [Hibernate is not so evil](https://betterprogramming.pub/hibernate-is-not-so-evil-84ca72b959c3)
 
 ### Infinispan
 
