@@ -12,6 +12,8 @@
 - [Baeldung](https://www.baeldung.com/)
     - [Apache HTTP Client Guide](https://www.baeldung.com/httpclient-guide)
 - [CodeJava](https://codejava.net/)
+    - [Java Hibernate JPA Annotations Tutorial for Beginners](https://www.codejava.net/frameworks/hibernate/java-hibernate-jpa-annotations-tutorial-for-beginners)
+    - [Java Hibernate Reverse Engineering Tutorial with Eclipse and MySQL](https://www.codejava.net/frameworks/hibernate/java-hibernate-reverse-engineering-tutorial-with-eclipse-and-mysql)    
 - [Dave Cheney](https://dave.cheney.net)
 - [DESTROY ALL SOFTWARE](https://www.destroyallsoftware.com/screencasts)
 - [Evan You](https://evanyou.me)
