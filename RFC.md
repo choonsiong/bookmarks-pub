@@ -7,3 +7,4 @@
 - [RFC 2833 - RTP Payload for DTMF Digits, Telephony Tones and Telephony Signals](https://www.ietf.org/rfc/rfc2833.txt)
 - [RFC 3986 - Uniform Resource Identifier (URI): Generic Syntax](https://www.ietf.org/rfc/rfc3986.txt)
 - [RFC 4733 - RTP Payload for DTMF Digits, Telephony Tones, and Telephony Signals](https://www.ietf.org/rfc/rfc4733.txt)
+- [RFC 6265 - HTTP State Management Mechanism](https://www.ietf.org/rfc/rfc6265.txt)
