@@ -6,4 +6,4 @@
 
 ## Sound
 
-- [Epidermic Sound] (https://www.epidemicsound.com/)
+- [Epidermic Sound](https://www.epidemicsound.com/)
