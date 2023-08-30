@@ -15,6 +15,7 @@
     - [Module System Quick-Start Guide](https://openjdk.org/projects/jigsaw/quick-start)
 - [Oracle Java](https://www.oracle.com/java/)
     - [Download Java](https://www.oracle.com/my/java/technologies/downloads/)
+    - [Java Archive](https://www.oracle.com/my/java/technologies/downloads/archive/)
 
 ## Java Documentation
 
