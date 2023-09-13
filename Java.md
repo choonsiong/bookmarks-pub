@@ -72,6 +72,7 @@
 
 ## Libraries
 
+- [c3p0](https://www.mchange.com/projects/c3p0/)
 - [CSV exporter](https://super-csv.github.io/super-csv/)
 - [Excel exporter](https://poi.apache.org)
 - [PDF exporter](https://github.com/LibrePDF/OpenPDF/tree/master)
