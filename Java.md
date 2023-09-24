@@ -67,6 +67,7 @@
     - [Producing a SOAP web service](https://spring.io/guides/gs/producing-web-service/)
 - [Spring Web MVC](https://docs.spring.io/spring-framework/docs/5.0.2.RELEASE/spring-framework-reference/web.html#mvc)
     - [JSP & JSTL](https://docs.spring.io/spring-framework/docs/5.0.2.RELEASE/spring-framework-reference/web.html#mvc-view-jsp)   
+- [Spring Web services](https://spring.io/projects/spring-ws)
 - [Jakarta Bean Validation](https://beanvalidation.org/)     
 
 ### Documentation
@@ -120,6 +121,7 @@
     - [hibernate-validator-cdi](https://search.maven.org/artifact/org.hibernate.validator/hibernate-validator-cdi/6.2.5.Final/jar)
     - [hibernate-validator-osgi](https://search.maven.org/artifact/org.hibernate.validator/hibernate-validator-osgi/6.2.5.Final/jar)
 - [Hibernate is not so evil](https://betterprogramming.pub/hibernate-is-not-so-evil-84ca72b959c3)
+- [JPQL](https://www.tutorialspoint.com/jpa/jpa_jpql.htm)
 
 ### Infinispan
 
