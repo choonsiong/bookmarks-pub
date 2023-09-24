@@ -53,6 +53,7 @@
 - [Spring](https://spring.io/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
     - [Spring Boot Properties](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html)
+    - [How to Deploy Spring Boot Applications to WildFly Application Server](https://www.springcloud.io/post/2022-09/spring-boot--wildfly/)
 - [Sping Initializr](https://start.spring.io/)
 - [Spring Tools](https://spring.io/tools)
 - [Spring Data JPA Reference](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
