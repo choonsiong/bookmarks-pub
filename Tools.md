@@ -7,4 +7,5 @@
 - [StarUML](https://staruml.io/)
     - [StarUmL Documentation](https://docs.staruml.io/)
         - [Class Diagram](https://docs.staruml.io/working-with-uml-diagrams/class-diagram)
+    - [Extensions Registry](https://staruml.io/extensions)
 - [Visual Paradigm](https://www.visual-paradigm.com/)
