@@ -16,6 +16,7 @@
 ## Libraries
 
 - [bignumber.js](https://mikemcl.github.io/bignumber.js/)
+- [DataTables](https://datatables.net/)
 - [jQuery minimal rich text editor](https://www.jqueryscript.net/text/Rich-Text-Editor-jQuery-RichText.html)
 
 ## Notes
