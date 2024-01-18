@@ -1,6 +1,7 @@
 # RFC
 
 - [RFC 1738 - Uniform Resource Locators (URL)](https://www.ietf.org/rfc/rfc1738.txt)
+- [RFC 1867 - Form-based File Upload in HTML](https://www.ietf.org/rfc/rfc1867.txt)
 - [RFC 2109 - HTTP State Management Mechanism](https://www.ietf.org/rfc/rfc2109.txt)
 - [RFC 2141 - URN Syntax](https://www.ietf.org/rfc/rfc2141.txt)
 - [RFC 2616 - Hypertext Transfer Protocol](https://www.ietf.org/rfc/rfc2616.txt)
