@@ -21,3 +21,4 @@
 - [RFC 4733 - RTP Payload for DTMF Digits, Telephony Tones, and Telephony Signals](https://www.ietf.org/rfc/rfc4733.txt)
 - [RFC 6265 - HTTP State Management Mechanism](https://www.ietf.org/rfc/rfc6265.txt)
 - [RFC 7519 - JSON Web Token (JWT)](https://www.ietf.org/rfc/rfc7519.txt)
+- [RFC 7617 - The 'Basic' HTTP Authentication Scheme](https://www.ietf.org/rfc/rfc7617.txt)
