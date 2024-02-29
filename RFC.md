@@ -4,6 +4,7 @@
 - [RFC 1867 - Form-based File Upload in HTML](https://www.ietf.org/rfc/rfc1867.txt)
 - [RFC 2109 - HTTP State Management Mechanism](https://www.ietf.org/rfc/rfc2109.txt)
 - [RFC 2141 - URN Syntax](https://www.ietf.org/rfc/rfc2141.txt)
+- [RFC 2247 - Using Domains in LDAP/X.500](https://www.ietf.org/rfc/rfc2247.txt)
 - [RFC 2251 - Lightweight Directory Access Protocol (v3)](https://www.ietf.org/rfc/rfc2251.txt)
 - [RFC 2252 - Lightweight Directory Access Protocol (v3): Attribute Syntax Definitions](https://www.ietf.org/rfc/rfc2252.txt)
 - [RFC 2253 - Lightweight Directory Access Protocol (v3): UTF-8 String Representation of Distinguished Names](https://www.ietf.org/rfc/rfc2253.txt)
